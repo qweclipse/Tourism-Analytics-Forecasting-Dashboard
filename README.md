@@ -99,7 +99,7 @@ project/
 ## Installation and Usage
 
 Clone the repository:
-git clone https://github.com/your-username/tourism-analytics.git
+git clone https://github.com/qweclipse/tourism-analytics.git
 cd tourism-analytics
 
 Create a virtual environment:
