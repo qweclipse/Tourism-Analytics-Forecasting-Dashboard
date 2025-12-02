@@ -77,28 +77,6 @@ Row selection for wide datasets.
 Real-time visualization of model results.
 
 
-Project Structure
-
-project/
-│
-├── app/
-│   └── app.py                # Main Streamlit application
-│
-├── src/
-│   ├── data_loader.py        # CSV ingestion logic
-│   ├── preprocessing.py       # Cleaning and feature engineering
-│   ├── eda.py                # Descriptive analytics and plots
-│   ├── models.py             # Regression model
-│   ├── forecast.py           # ARIMA forecasting
-│   └── config.py
-│
-├── data/                     # Local datasets
-│   └── *.csv
-│
-└── README.md
-
-
-
 ## Installation and Usage
 
 Clone the repository:
